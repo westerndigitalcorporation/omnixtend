@@ -1,4 +1,5 @@
 Welcome to the OmniXtend future!
+================================
 
 OmniXtend is a fully open networking protocol for exchanging
 coherence messages directly with processor caches.
@@ -20,8 +21,8 @@ keep in mind that OmniXtend is *not* equivalent to TileLink, despite
 their similarity at the moment.
 
 
-See the [specification](specification/OmniXtend-0.1.md) document 
-for details of the protocol.
+See the [specification](specification/OmniXtend-0.1.html)
+document for details of the protocol.
 
 License
 =======
