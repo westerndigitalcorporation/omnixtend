@@ -30,3 +30,8 @@ License
 OmniXtend is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+The protocol specification is provided under Apache 2.0 license.
+
+The reference hardware implementations include a linux
+distribution provided under the GPL v2 license.
